@@ -1,0 +1,1 @@
+#TODO: Break fixed-nonce CTR mode using substitutions https://cryptopals.com/sets/3/challenges/19
