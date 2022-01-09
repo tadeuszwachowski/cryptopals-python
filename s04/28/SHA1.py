@@ -86,6 +86,7 @@ def main():
 
     # Verify that I implemented SHA1 correctly
     h = hashlib.sha1(key + message)
+    print(h.hexdigest())
     assert (hashed == h.hexdigest())
 
 
